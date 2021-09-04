@@ -1,2 +1,2 @@
 # AIT
- automatic identification technology
+ 自动识别技术 automatic identification technology
